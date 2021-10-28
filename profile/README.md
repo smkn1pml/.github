@@ -1,6 +1,6 @@
 ## SMK Negeri 1 Pemalang
 
-SMK Negeri 1 Pemalang adalah satu-satunya Lembaga Pendidikan Menengah Kejuruan Negeri yang ada di Kecamatan Pemalang, Jawa Tengah.
+Bertaqwa, Profesional, Sesuai Perkembangan IPTEK dan Mampu Bersaing di Dunia Kerja.
 
 ## Visi
 
