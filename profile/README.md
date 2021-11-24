@@ -1,4 +1,4 @@
-## SMK Negeri 1 Pemalang
+# SMK Negeri 1 Pemalang
 
 Bertaqwa, Profesional, Sesuai Perkembangan IPTEK dan Mampu Bersaing di Dunia Kerja.
 
