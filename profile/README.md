@@ -2,18 +2,18 @@
 
 Bertaqwa, Profesional, Sesuai Perkembangan IPTEK dan Mampu Bersaing di Dunia Kerja.
 
-## Visi
+## :dart: Visi
 
-> Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
+Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
 
-## Misi
+## :rocket: Misi
 
 - Membentuk peserta didik yang berkarakter dan beriman kepada tuhan yang maha esa.
 - Menyiapkan peserta didik berkualitas dan mampu bersaing di era global.
 - Menyelenggarakan pembelajaran yang berorientasi kepada kebutuhan dunia usaha dan dunia industri.
 - Mewujudkan sekolah sebagai wadah kreasi dan inovasi.
 
-## Tujuan
+## :heavy_check_mark: Tujuan
 
 - Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
 - Tercapainya lulusan yang mandiri dan dapat mengisi lapangan pekerjaan Dunia usaha dan dunia Industri serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.
