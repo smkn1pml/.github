@@ -1,21 +1,9 @@
 # SMK Negeri 1 Pemalang
 
-Bertaqwa, Profesional, Sesuai Perkembangan IPTEK dan Mampu Bersaing di Dunia Kerja.
+Qodarullah Walhamdulillah. As of June 26, 2024, this organization has become unofficial.
 
-## :dart: Visi
+We love open-source, especially for education, but it seems we don't have much time to handle it all. Now, this is not an official organization page, at least it once was.
 
-Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
+Ala kulli hal, we hope that what we have contributed can be beneficial. Will we come back? Allahu a'lam! Please visit https://smkn1pml.sch.id for the official website page from now on.
 
-## :rocket: Misi
-
-- Membentuk peserta didik yang berkarakter dan beriman kepada tuhan yang maha esa.
-- Menyiapkan peserta didik berkualitas dan mampu bersaing di era global.
-- Menyelenggarakan pembelajaran yang berorientasi kepada kebutuhan dunia usaha dan dunia industri.
-- Mewujudkan sekolah sebagai wadah kreasi dan inovasi.
-
-## :heavy_check_mark: Tujuan
-
-- Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
-- Tercapainya lulusan yang mandiri dan dapat mengisi lapangan pekerjaan Dunia usaha dan dunia Industri serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.
-- Tercapainya proses pembelajaran secara efektif dan efisien dalam menjawab tantangan global.
-- Menghasilkan lulusan yang mampu menguasai ilmu pengetahuan, teknologi dan seni.
+The repositories in this organization are just backups, in case they are needed again in the future. May Allah bless us all!
